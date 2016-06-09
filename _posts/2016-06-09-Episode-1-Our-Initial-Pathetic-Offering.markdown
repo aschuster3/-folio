@@ -11,4 +11,4 @@ Episode 1: Our Initial Pathetic Offering is live and available for download <a h
 
 
 
-*<sup>We say this as if somebody will actually be around to enjoy our modest efforts</sup>
+*<sup>We say this as if somebody will actually be around to enjoy our modest efforts.</sup>
