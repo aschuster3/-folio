@@ -7,7 +7,7 @@ permalink: /about/
 <!-- <img class="col one right" src="img/prof_pic.jpg"> -->
 
 <br/>
-Welcome to Overripe for Disruption, a podcast you don't care about hosted by two guys (Andrew and Gautam) who don't know what they're talking about. Ostensibly, we're here to talk about tech things and make fun of the wacky, zany world of startups. In reality, our low quality audio, poorly-timed jokes, and uninsightful commentary serves no purpose beyond wasting embarassing us and wasting your time. <br/><br/>
+Welcome to Overripe for Disruption, a podcast you don't care about hosted by two guys (Andrew and Gautam) who don't know what they're talking about. Ostensibly, we're here to talk about tech things and make fun of the wacky, zany world of startups. In reality, our low quality audio, poorly-timed jokes, and uninsightful commentary serve no purpose beyond wasting embarassing us and wasting your time. <br/><br/>
 
 If you'd like to give us feedback on how terrible the show is, chat with us, or discuss the show, feel free to post on our <a href="http://reddit.com/r/Overripe" target="blank">subreddit</a>. 
 
