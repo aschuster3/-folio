@@ -25,6 +25,6 @@ If you'd like to give us feedback on how terrible the show is, chat with us, or 
 ---> 
 
 <div class="col three caption">
-	Overripe for Disruption: Banter as a Service
+	{{ site.title }}: {{ site.description }}
 </div>
 
