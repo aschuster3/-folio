@@ -11,8 +11,6 @@ Welcome to Overripe for Disruption, a podcast you don't care about hosted by two
 
 If you'd like to give us feedback on how terrible the show is, chat with us, or discuss the show, feel free to post on our <a href="http://reddit.com/r/Overripe" target="blank">subreddit</a>. 
 
-Link to your social media connections, too. This theme is set up to use <a href="http://fortawesome.github.io/Font-Awesome/" target="blank">Font Awesome icons</a>, like the ones below. Add your facebook, twitter, linkedin, or just disable all of them. 
-
 
 <br/>
 <hr/>
