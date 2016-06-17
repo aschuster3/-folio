@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Episode 1: Our Initial Pathetic Offering
+title:  Episode 1 Our Initial Pathetic Offering
 date:   2016-06-09 17:25:00
 description: Episode 1 synopsis and download link
 ---
