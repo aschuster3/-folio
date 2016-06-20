@@ -9,9 +9,9 @@ description: Episode 1 synopsis and download link
 <br>
 <p>In this episode, we attempt to discuss tech IPOs but actually end up only discussing two or three of them, mislead our nonexistent listeners about Google's investment in Lyft (that never happened), talk about a bad arcade/go-karting place you shouldn't visit, and spend tens of minutes rambling about things without actually saying anything of value. Enjoy*!</p>
 
-
-
-
+<br><br>You can also stream it on YouTube below.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t_0vPD6wobI" frameborder="0" allowfullscreen></iframe>
+<br>
 
 
 *<sup>We say this as if somebody will actually be around to enjoy our modest efforts.</sup>
