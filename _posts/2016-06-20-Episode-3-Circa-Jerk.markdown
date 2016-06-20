@@ -10,7 +10,9 @@ description: Episode 3 synopsis, download link, and related images
 <p>In this episode we talk about,Circa, our own ill-fated attempt at DiRUpTiOn that we developed in 2015. Along the way, we hear bad singing, even worse jokes, and aristocratic meowing.
 It's our best effort yet!*
 </p>
-
+<br><br>
+You can also stream the episode on YouTube below:
+<iframe width="420" height="315" src="https://www.youtube.com/embed/QgF-hhmsvuc" frameborder="0" allowfullscreen></iframe>
 
 
 *<sup>Which his kind of like being the thinnest kid at fat camp.</sup>
