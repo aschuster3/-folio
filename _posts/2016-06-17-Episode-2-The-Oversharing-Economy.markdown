@@ -10,5 +10,5 @@ description: Episode 2 synopsis and download link
 <p>In this episode, we talk about the rise of Uber and Airbnb, bemoan the failure of our own beloved startup, invent a new startup idea, and do our best to keep things family-friendly. </p>
 <br>
 <br>
-The episode can also be streamed on YouTube below:
+The episode can also be streamed on SoundCloud below:
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/270110118&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
