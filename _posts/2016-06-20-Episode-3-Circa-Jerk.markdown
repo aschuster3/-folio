@@ -2,7 +2,7 @@
 layout: post
 title:  Episode 3 Circa Jerk
 date:   2016-06-20 14:02:00
-description: Episode 3 synopsis, download link, and related images
+description: Episode 3 synopsis, download/streaming link, and related images
 ---
 <strong>Episode 3: Circa Jerk (1:13:35) is live and available for download <a href="https://bit.ly/OfDEpisode3"> by clicking here</a></strong> or going to bit.ly/OfDEpisode3
 <br>
@@ -11,8 +11,8 @@ description: Episode 3 synopsis, download link, and related images
 It's our best effort yet!*
 </p>
 <br><br>
-You can also stream the episode on YouTube below:
-<iframe width="420" height="315" src="https://www.youtube.com/embed/NIoKykzdxfA" frameborder="0" allowfullscreen></iframe>
+You can also stream the episode on Soundcloud below:
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/270110117&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
 
 *<sup>Which his kind of like being the thinnest kid at fat camp.</sup>
