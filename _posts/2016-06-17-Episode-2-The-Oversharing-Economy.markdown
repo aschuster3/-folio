@@ -2,7 +2,7 @@
 layout: post
 title:  Episode 2 The Oversharing Economy
 date:   2016-06-17 15:35:00
-description: Episode 2 synopsis and download link
+description: Episode 2 synopsis and download/streaming link
 ---
 <strong>Episode 2: The Oversharing Economy (1:05:33) is live and available for download <a href="https://bit.ly/OfDEpisode2"> by clicking here</a></strong> or going to bit.ly/OfDEpisode2
 <br>
