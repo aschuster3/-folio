@@ -11,5 +11,8 @@ description: Episode 1 synopsis and download link
 
 <br>
 <br>
+The episode can also be streamed via SoundCloud below:
+<br>
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/270463893&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
 *<sup>We say this as if somebody will actually be around to enjoy our modest efforts.</sup>
