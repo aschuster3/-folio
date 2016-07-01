@@ -2,7 +2,7 @@
 layout: post
 title:  Episode 4 Red Flag on the Play
 date:   2016-06-28 16:14:00
-description: Episode 4 synopsis, download/streaming link, and related images
+description: Episode 4 synopsis with download/streaming link
 ---
 <strong>Episode 4: Red Flag on the Play (1:04:38) is live and available for download <a href="https://bit.ly/OfDEpisode4"> by clicking here</a></strong> or going to bit.ly/OfDEpisode4
 <br>
